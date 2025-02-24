@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "calculo-nascimento",
+    "slug": "snack-4d741b30-5b8a-4a98-ad8a-54bcd2d32e03",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Aplicação que consistem em \ndigitar a data de nascimento de uma pessoa e depois o sistema deverá retornar em anos, meses \ne dias e mostrar se ele é:\n• Jovens - Indivíduos de até 19 anos;\n• Adultos - Indivíduos com idade entre 20 até 59 anos;\n• Idosos - Indivíduos de 60 anos em diante."
+  }
+}
